@@ -1,0 +1,9 @@
+presidio-analyzer>=2.2.360
+presidio-anonymizer>=2.2.360
+spacy>=3.7.0
+tabulate>=0.9.0
+python-dotenv>=1.0.0
+
+# Optional LLM providers (install only if you want remote calls)
+openai>=1.30.0
+anthropic>=0.30.0
